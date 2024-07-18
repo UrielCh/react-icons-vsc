@@ -42,5 +42,5 @@ import { VscAccount } from "react-icons/vsc/VscAccount"
 or using default export
 
 ```ts
-import VscAccount from "react-icons/vsc/VscAccount.ts"
+import VscAccount from "react-icons/vsc/VscAccount"
 ```
